@@ -84,4 +84,7 @@
 
 
 <!-- Metrics -->
-<img scr="https://github.com/Oliveiras96/Oliveiras96/blob/main/github-metrics.svg" alt="metrics"> 
+<p align="center">
+    <img src="https://github.com/Oliveiras96/Oliveiras96/blob/main/github-metrics.svg" alt="metrics"> 
+</p>
+
