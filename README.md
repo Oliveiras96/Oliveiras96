@@ -22,7 +22,7 @@
 <!-- <h3 align="center"> I am Caique! </h3> -->
 
 <p align="center">
- I'm a Physics undergrauate student changing to Software development. Currently focusing on front-end development through a coding bootcamp at <a target="_blanck" href="https://digitalinnovation.one/">Digital Innovation One</a>. Feel free to contact me and please take a look around! :wink:
+ I'm a Physics undergraduate student changing to Software development. Currently focusing on front-end development through a coding bootcamp at <a target="_blanck" href="https://digitalinnovation.one/">Digital Innovation One</a>. Feel free to contact me and please take a look around! :wink:
 </p>
 
 <br>
@@ -56,11 +56,11 @@
 <p align="center">
   Part of my stack is based in previous knowledge developed in college. 
   I was involved with some academic activities that required programming skills 
-  such as algorithms and data structures (using C) courses, numeric 
+  such as algorithms and data structures courses (using C), numeric 
   algorithms implementation and data analysis scripts (with Python).
   I also worked developing full automatic scripts for simulation and data 
   analysis in a framework based in C++ 
-  (<a target="_blank" href="#"> ROOT </a> from CERN) in my scientific initiation.
+  (<a target="_blank" href="https://root.cern/"> ROOT </a> from CERN) in my scientific initiation.
 </p>
 
 
