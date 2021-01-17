@@ -83,5 +83,5 @@
 </ul>
 
 
-<!-- Metrics 
-<img scr="https://metrics.lecoq.io/Oliveiras96" alt="metrics"> -->
+<!-- Metrics -->
+<img scr="https://github.com/Oliveiras96/Oliveiras96/blob/main/github-metrics.svg" alt="metrics"> 
