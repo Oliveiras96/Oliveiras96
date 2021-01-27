@@ -31,25 +31,23 @@
 
 <p align="center">
   
-  <img src="https://www.flaticon.com/svg/vstatic/svg/1216/1216733.svg?token=exp=1610836165~hmac=920e14cda6f9826be844b3eda3065ed0" alt="html5" width="35px">
+  <img src="" alt="html5" width="35px">
  
-  <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1610836321~hmac=db1a90ae6f84454072157f9e3718ac37" alt="css3" width="35px">
+  <img src="" alt="css3" width="35px">
  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" width="35px">
+  <img src="" alt="Javascript" width="35px">
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="35px">
+  <img src="" alt="git" width="35px">
   
-  <img src="https://www.flaticon.com/svg/vstatic/svg/2772/2772128.svg?token=exp=1610840566~hmac=c06089f7bcd0553a7b92eeb92cbf3148" alt="SQL" width="35px">
+  <img src="" alt="SQL" width="35px">
   
-  <img src="https://www.flaticon.com/svg/vstatic/svg/518/518713.svg?token=exp=1610837632~hmac=d33452a3533e03e90d5f27f6bd251573" alt="Linux" width="35px">
+  <img src="" alt="Linux" width="35px">
 
-  <img src="https://www.flaticon.com/svg/vstatic/svg/381/381704.svg?token=exp=1610838886~hmac=17ac965f80ab7286dc82c8e5af4fee2e" alt="csharp" width="35px">
+  <img src="" alt="csharp" width="35px">
  
-  <img src="https://www.flaticon.com/svg/vstatic/svg/3600/3600912.svg?token=exp=1610838886~hmac=1dfd788da44330a30389c0f5a5af2462" alt="c" width="35px">
+  <img src="" alt="c" width="35px">
   
-  <img src="https://www.flaticon.com/svg/vstatic/svg/919/919841.svg?token=exp=1610840812~hmac=052806b28c36cd8fc60471ef5a9f272b" alt="c++" width="35px">
-  
-  <img src="https://www.flaticon.com/svg/vstatic/svg/1822/1822899.svg?token=exp=1610839193~hmac=66e017717a44f51c2fe7a39347507864" alt="Python" width="35px">
+  <img src="" alt="Python" width="35px">
   
 </p>
 
