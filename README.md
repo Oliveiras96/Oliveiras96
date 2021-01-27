@@ -2,12 +2,12 @@
 
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/caique-campos1996/" > 
-        <img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1610834538~hmac=f00d65f9150435271e86a7f2cbcaa5ee" alt="LinkedIn"  width="25px"/> 
+        <img src="" alt="LinkedIn"  width="25px"/> 
         &nbsp;
     </a>
 
   <a target="_blank" href="mailto:kaique.campos13@gmail.com"> 
-    <img src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1610834594~hmac=3d91c7dbfc088c22d719bd95a8dca65f" alt="GMail" width="25px">
+    <img src="" alt="GMail" width="25px">
   </a>
   &nbsp;
 
