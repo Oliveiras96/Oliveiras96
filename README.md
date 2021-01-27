@@ -2,12 +2,12 @@
 
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/caique-campos1996/" > 
-        <img src="" alt="LinkedIn"  width="25px"/> 
+        <img src="icons/linkedin.svg" alt="LinkedIn"  width="25px"/> 
         &nbsp;
     </a>
 
   <a target="_blank" href="mailto:kaique.campos13@gmail.com"> 
-    <img src="" alt="GMail" width="25px">
+    <img src="icons/gmail.svg" alt="GMail" width="25px">
   </a>
   &nbsp;
 
@@ -31,23 +31,23 @@
 
 <p align="center">
   
-  <img src="" alt="html5" width="35px">
+  <img src="icons/html5.svg" width="35px">
  
-  <img src="" alt="css3" width="35px">
+  <img src="icons/css-3.svg" alt="css3" width="35px">
  
-  <img src="" alt="Javascript" width="35px">
+  <img src="icons/javascript.svg" alt="Javascript" width="35px">
   
-  <img src="" alt="git" width="35px">
+  <img src="icons/git.png" alt="git" width="35px">
   
-  <img src="" alt="SQL" width="35px">
+  <img src="icons/sql-server.svg" alt="SQL" width="35px">
   
-  <img src="" alt="Linux" width="35px">
+  <img src="icons/linux.svg" alt="Linux" width="35px">
 
-  <img src="" alt="csharp" width="35px">
+  <img src="icons/hashtag.svg" alt="csharp" width="35px">
  
-  <img src="" alt="c" width="35px">
+  <img src="icons/c.svg" alt="c" width="35px">
   
-  <img src="" alt="Python" width="35px">
+  <img src="icons/python.svg" alt="Python" width="35px">
   
 </p>
 
@@ -61,6 +61,9 @@
   (<a target="_blank" href="https://root.cern/"> ROOT </a> from CERN) in my scientific initiation.
 </p>
 
+<p align="center" style="font-size:1px">
+    Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+</p>
 
 <h3 align="center"> Projects </h3>
 
@@ -85,4 +88,5 @@
 <p align="center">
     <img src="https://github.com/Oliveiras96/Oliveiras96/blob/main/github-metrics.svg" alt="metrics"> 
 </p>
+
 
