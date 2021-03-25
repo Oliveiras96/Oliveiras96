@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there, i am Caique! 👋 </h2>
+<h2 align="center"> Hello! 👋 </h2>
 
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/caique-campos1996/" > 
@@ -18,11 +18,8 @@
 
 </p>
 
-
-<!-- <h3 align="center"> I am Caique! </h3> -->
-
 <p align="center">
- I'm a Physics undergraduate student changing to Software development. Currently focusing on front-end development through a coding bootcamp at <a target="_blanck" href="https://digitalinnovation.one/">Digital Innovation One</a>. Feel free to contact me and please take a look around! :wink:
+ Software developer student with focus in front-end. My interests are React.js for UI development and .NET Core for MVC, RESTful APIs and other applications.
 </p>
 
 <br>
@@ -45,9 +42,9 @@
 
   <img src="icons/hashtag.svg" alt="csharp" width="35px">
  
-  <img src="icons/c.svg" alt="c" width="35px">
+  <!--<img src="icons/c.svg" alt="c" width="35px"> -->
   
-  <img src="icons/python.svg" alt="Python" width="35px">
+  <!-- <img src="icons/python.svg" alt="Python" width="35px"> -->
   
 </p>
 
@@ -65,13 +62,13 @@
     Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 </p>
 
-<h3 align="center"> Projects </h3>
+<!-- <h3 align="center"> Projects </h3> -->
 
-<p align="center">
+<!-- <p align="center">
   SOON!
-</p>
+</p> -->
 
-<h3 align="center"> Interests </h3>
+<!-- <h3 align="center"> Interests </h3>
 <ul>
   <li> Reactjs and React Native </li>
   <li> Node.js </li>
@@ -80,9 +77,7 @@
   <li> Agile Methodologies such as SCRUM </li>
   <li> Software architecture </li>
   <li> Docker </li>
-  
-</ul>
-
+</ul> -->
 
 <!-- Metrics -->
 <p align="center">
