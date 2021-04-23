@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
- Software developer student with focus in front-end. My interests are React.js for UI development and .NET Core for MVC, RESTful APIs and other applications.
+ My name is Caique, i'm a front-end developer based in São Paulo, Brasil. Rcently studying React.js for UI development and .NET Core for MVC, RESTful APIs and other applications.
 </p>
 
 <br>
