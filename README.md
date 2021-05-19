@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
- My name is Caique, i'm a front-end developer based in São Paulo, Brasil. Rcently studying React.js for UI development and .NET Core for MVC, RESTful APIs and other applications.
+ My name is Caique, i'm a student based in São Paulo, Brasil. Recently studying React.js for SPA, PWAs and .NET Core for MVC, RESTful APIs and other applications.
 </p>
 
 <br>
@@ -49,11 +49,10 @@
 </p>
 
 <p align="center">
-  Part of my stack is based in previous knowledge developed in college. 
   I was involved with some academic activities that required programming skills 
   such as algorithms and data structures courses (using C), numeric 
   algorithms implementation and data analysis scripts (with Python).
-  I also worked developing full automatic scripts for simulation and data 
+  I also worked developing scripts for simulation and data 
   analysis in a framework based in C++ 
   (<a target="_blank" href="https://root.cern/"> ROOT </a> from CERN) in my scientific initiation.
 </p>
