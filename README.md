@@ -11,20 +11,23 @@
   </a>
   &nbsp;
 
-  <!--<a target="_blank" href="https://github.com/Oliveiras96"> 
-     <img src="https://www.flaticon.com/svg/vstatic/svg/733/733609.svg?token=exp=1610838760~hmac=de205bfdd1b8e0ed16e6cc5cd3a5251a" alt="GitHub" width="25px">
-  </a>
-  &nbsp; -->
-
-</p>
-
 <p align="center">
- My name is Caique, i'm a student based in São Paulo, Brasil. Recently studying React.js for SPA, PWAs and .NET Core for MVC, RESTful APIs and other applications.
+ My name is Caique, i'm a student based in São Paulo, Brasil. Recently studying web development and technologies such as React.js for front-end and .NET Core for back-end development. I'm also familiar with SQL and NoSQL DBMS's.
 </p>
+
+<p>My interests are: </p>
+
+<ul>
+    <li> TypeScript </li>
+    <li> Next.js </li>
+    <li> Design Patterns </li>
+    <li> Good Practices of coding </li>
+    <li> Data Science </li>
+</ul>
 
 <br>
  
-<h2 align="center"> My Stack </h2>
+<!-- <h2 align="center"> My Stack </h2>
 
 <p align="center">
   
@@ -42,11 +45,7 @@
 
   <img src="icons/hashtag.svg" alt="csharp" width="35px">
  
-  <!--<img src="icons/c.svg" alt="c" width="35px"> -->
-  
-  <!-- <img src="icons/python.svg" alt="Python" width="35px"> -->
-  
-</p>
+</p> 
 
 <p align="center">
   I was involved with some academic activities that required programming skills 
@@ -61,13 +60,13 @@
     Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 </p>
 
-<!-- <h3 align="center"> Projects </h3> -->
+<h3 align="center"> Projects </h3>
 
-<!-- <p align="center">
+<p align="center">
   SOON!
-</p> -->
+</p> 
 
-<!-- <h3 align="center"> Interests </h3>
+<h3 align="center"> Interests </h3>
 <ul>
   <li> Reactjs and React Native </li>
   <li> Node.js </li>
@@ -76,11 +75,10 @@
   <li> Agile Methodologies such as SCRUM </li>
   <li> Software architecture </li>
   <li> Docker </li>
-</ul> -->
+</ul> 
 
-<!-- Metrics -->
 <p align="center">
     <img src="https://github.com/Oliveiras96/Oliveiras96/blob/main/github-metrics.svg" alt="metrics"> 
 </p>
-
+ -->
 
