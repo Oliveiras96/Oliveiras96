@@ -2,7 +2,7 @@
 
 <p align="center">
     
-I'm a Physics student based in São Paulo, Brasil. I am currently working on my undergraduate Thesis. I'm also an enthusiast programmer with some basic knowledge in Python and C. My interests are Density Functional Theory, Data Science and Machine Learning Algorithms.
+MSc student also an enthusiast programmer. Current interests are: Computational materials modelling with DFT, Ab-initio molecular dynamics and machine learning usage in materials science.
 
 </p>
 
